@@ -1,5 +1,5 @@
 
-# 🛍️ FastAPI Shop - Полнофункциональный интернет-магазин
+# 🛍️ Seller - fullstack app on Fastapi + Vue.js
 
 <div align="center">
 
